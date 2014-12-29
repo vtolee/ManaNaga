@@ -85,7 +85,6 @@ GameObject:
   - 33: {fileID: 103796912}
   - 65: {fileID: 103796911}
   - 23: {fileID: 103796910}
-  - 114: {fileID: 103796914}
   m_Layer: 0
   m_Name: Cube
   m_TagString: Untagged
@@ -144,17 +143,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 6
---- !u!114 &103796914
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 103796909}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 190f5b35d2ec94268a86702a0929ed28, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &108515805
 GameObject:
   m_ObjectHideFlags: 0
@@ -287,7 +275,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 6
 --- !u!1 &667590089
 GameObject:
   m_ObjectHideFlags: 0
@@ -406,7 +394,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: .357266426, g: .378460169, b: .411764681, a: .0196078438}
+  m_BackGroundColor: {r: .192156866, g: .301960796, b: .474509805, a: .0196078438}
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
@@ -435,8 +423,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 678060105}
-  m_LocalRotation: {x: .0700753555, y: .947973609, z: -.214482039, w: .22457312}
-  m_LocalPosition: {x: -5.69999981, y: 3.55999994, z: 8.38000011}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 1, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1664,7 +1652,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 7
 --- !u!1 &1832793877
 GameObject:
   m_ObjectHideFlags: 0
