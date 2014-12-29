@@ -18,6 +18,11 @@ obj/
 *.user
 *.unityproj
 *.booproj
+<<<<<<< HEAD
+=======
+*.csproj
+*.sln
+>>>>>>> origin/Dev-Branch
 
 # ============ #
 # OS generated #
